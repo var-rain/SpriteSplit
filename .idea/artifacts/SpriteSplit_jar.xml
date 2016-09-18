@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SpriteSplit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpriteSplit_jar</output-path>
+    <root id="archive" name="SpriteSplit.jar">
+      <element id="module-output" name="SpriteSplit" />
+    </root>
+  </artifact>
+</component>
